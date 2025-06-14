@@ -1,0 +1,6 @@
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ShapesLibrary\bin\Debug\ShapesLibrary.dll
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ShapesLibrary\bin\Debug\ShapesLibrary.pdb
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ShapesLibrary\obj\Debug\ShapesLibrary.csproj.AssemblyReference.cache
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ShapesLibrary\obj\Debug\ShapesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ShapesLibrary\obj\Debug\ShapesLibrary.dll
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ShapesLibrary\obj\Debug\ShapesLibrary.pdb

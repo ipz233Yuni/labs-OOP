@@ -1,0 +1,12 @@
+C:\Users\vermeervermeeroff\source\repos\oop-lab5\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\vermeervermeeroff\source\repos\oop-lab5\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\vermeervermeeroff\source\repos\oop-lab5\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\vermeervermeeroff\source\repos\oop-lab5\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vermeervermeeroff\source\repos\oop-lab5\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\vermeervermeeroff\source\repos\oop-lab5\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\neket\source\repos\lab05\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\neket\source\repos\lab05\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\neket\source\repos\lab05\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\neket\source\repos\lab05\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\neket\source\repos\lab05\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\neket\source\repos\lab05\ClassLibrary\obj\Debug\ClassLibrary.pdb

@@ -1,0 +1,14 @@
+C:\Users\vermeervermeeroff\source\repos\oop-lab4\StructConsole\bin\Debug\StructConsole.exe.config
+C:\Users\vermeervermeeroff\source\repos\oop-lab4\StructConsole\bin\Debug\StructConsole.exe
+C:\Users\vermeervermeeroff\source\repos\oop-lab4\StructConsole\bin\Debug\StructConsole.pdb
+C:\Users\vermeervermeeroff\source\repos\oop-lab4\StructConsole\obj\Debug\StructConsole.csproj.AssemblyReference.cache
+C:\Users\vermeervermeeroff\source\repos\oop-lab4\StructConsole\obj\Debug\StructConsole.csproj.CoreCompileInputs.cache
+C:\Users\vermeervermeeroff\source\repos\oop-lab4\StructConsole\obj\Debug\StructConsole.exe
+C:\Users\vermeervermeeroff\source\repos\oop-lab4\StructConsole\obj\Debug\StructConsole.pdb
+C:\Users\neket\source\repos\lab04\StructConsole\bin\Debug\StructConsole.exe.config
+C:\Users\neket\source\repos\lab04\StructConsole\bin\Debug\StructConsole.exe
+C:\Users\neket\source\repos\lab04\StructConsole\bin\Debug\StructConsole.pdb
+C:\Users\neket\source\repos\lab04\StructConsole\obj\Debug\StructConsole.csproj.AssemblyReference.cache
+C:\Users\neket\source\repos\lab04\StructConsole\obj\Debug\StructConsole.csproj.CoreCompileInputs.cache
+C:\Users\neket\source\repos\lab04\StructConsole\obj\Debug\StructConsole.exe
+C:\Users\neket\source\repos\lab04\StructConsole\obj\Debug\StructConsole.pdb

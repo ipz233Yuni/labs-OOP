@@ -1,0 +1,10 @@
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ConsoleApp\bin\Debug\ClassLibrary.dll
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ConsoleApp\bin\Debug\ClassLibrary.pdb
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\vermeervermeeroff\source\repos\oop-lab7\ConsoleApp\obj\Debug\ConsoleApp.pdb

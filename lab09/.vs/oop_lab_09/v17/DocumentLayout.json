@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1 \u043A\u0443\u0440\u0441\\labsNekit\\\u043B\u0430\u0431\u0438\\lab09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0224EEF-E66C-4179-A45C-63A973B1E78F}|ClassLibrary\\ClassLibrary.csproj|d:\\1 \u043A\u0443\u0440\u0441\\labsnekit\\\u043B\u0430\u0431\u0438\\lab09\\classlibrary\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0224EEF-E66C-4179-A45C-63A973B1E78F}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D034CCC-6032-466B-9029-1AA394D04A68}|ConsoleApp\\ConsoleApp.csproj|d:\\1 \u043A\u0443\u0440\u0441\\labsnekit\\\u043B\u0430\u0431\u0438\\lab09\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D034CCC-6032-466B-9029-1AA394D04A68}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1 \u043A\u0443\u0440\u0441\\labsNekit\\\u043B\u0430\u0431\u0438\\lab09\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\1 \u043A\u0443\u0440\u0441\\labsNekit\\\u043B\u0430\u0431\u0438\\lab09\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwCIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:27:23.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fraction.cs",
+              "DocumentMoniker": "D:\\1 \u043A\u0443\u0440\u0441\\labsNekit\\\u043B\u0430\u0431\u0438\\lab09\\ClassLibrary\\Fraction.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Fraction.cs",
+              "ToolTip": "D:\\1 \u043A\u0443\u0440\u0441\\labsNekit\\\u043B\u0430\u0431\u0438\\lab09\\ClassLibrary\\Fraction.cs",
+              "RelativeToolTip": "ClassLibrary\\Fraction.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAiwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:25:08.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

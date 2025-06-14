@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructConsole", "StructConsole\StructConsole.csproj", "{7C866FFA-28E4-4333-BD34-222F0FD85B0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructConsole2", "StructConsole2\StructConsole2.csproj", "{DCC6BB7F-C3E1-40EE-BB8B-4656132363BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C866FFA-28E4-4333-BD34-222F0FD85B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C866FFA-28E4-4333-BD34-222F0FD85B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C866FFA-28E4-4333-BD34-222F0FD85B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C866FFA-28E4-4333-BD34-222F0FD85B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC6BB7F-C3E1-40EE-BB8B-4656132363BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC6BB7F-C3E1-40EE-BB8B-4656132363BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC6BB7F-C3E1-40EE-BB8B-4656132363BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC6BB7F-C3E1-40EE-BB8B-4656132363BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B30340C1-1436-4215-9EAD-6689138D187F}
+	EndGlobalSection
+EndGlobal

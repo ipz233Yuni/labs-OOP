@@ -1,0 +1,30 @@
+D:\2 КУРС\lab1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\2 КУРС\lab1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\2 КУРС\lab1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\2 КУРС\lab1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\2 КУРС\lab1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\2 КУРС\lab1\WpfApp1\obj\Debug\App.g.cs
+D:\2 КУРС\lab1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\2 КУРС\lab1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\2 КУРС\lab1\WpfApp1\obj\Debug\MainWindow.baml
+D:\2 КУРС\lab1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\2 КУРС\lab1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\2 КУРС\lab1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\2 КУРС\lab1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\2 КУРС\lab1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\2 КУРС\lab1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\neket\source\repos\lab01\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\neket\source\repos\lab01\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\neket\source\repos\lab01\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\neket\source\repos\lab01\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\neket\source\repos\lab01\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\neket\source\repos\lab01\WpfApp1\obj\Debug\App.g.cs
+C:\Users\neket\source\repos\lab01\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\neket\source\repos\lab01\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\neket\source\repos\lab01\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\neket\source\repos\lab01\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\neket\source\repos\lab01\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\neket\source\repos\lab01\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\neket\source\repos\lab01\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\neket\source\repos\lab01\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\neket\source\repos\lab01\WpfApp1\obj\Debug\WpfApp1.pdb

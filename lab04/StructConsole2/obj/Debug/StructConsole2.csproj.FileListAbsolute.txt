@@ -1,0 +1,20 @@
+C:\Users\vermeervermeeroff\source\repos\oop-lab4\StructConsole2\bin\Debug\StructConsole2.exe.config
+C:\Users\vermeervermeeroff\source\repos\oop-lab4\StructConsole2\bin\Debug\StructConsole2.exe
+C:\Users\vermeervermeeroff\source\repos\oop-lab4\StructConsole2\bin\Debug\StructConsole2.pdb
+C:\Users\vermeervermeeroff\source\repos\oop-lab4\StructConsole2\obj\Debug\StructConsole2.csproj.AssemblyReference.cache
+C:\Users\vermeervermeeroff\source\repos\oop-lab4\StructConsole2\obj\Debug\StructConsole2.csproj.CoreCompileInputs.cache
+C:\Users\vermeervermeeroff\source\repos\oop-lab4\StructConsole2\obj\Debug\StructConsole2.exe
+C:\Users\vermeervermeeroff\source\repos\oop-lab4\StructConsole2\obj\Debug\StructConsole2.pdb
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+C:\Users\neket\source\repos\lab04\StructConsole2\bin\Debug\StructConsole2.exe.config
+C:\Users\neket\source\repos\lab04\StructConsole2\bin\Debug\StructConsole2.exe
+C:\Users\neket\source\repos\lab04\StructConsole2\bin\Debug\StructConsole2.pdb
+C:\Users\neket\source\repos\lab04\StructConsole2\obj\Debug\StructConsole2.csproj.AssemblyReference.cache
+C:\Users\neket\source\repos\lab04\StructConsole2\obj\Debug\StructConsole2.csproj.CoreCompileInputs.cache
+C:\Users\neket\source\repos\lab04\StructConsole2\obj\Debug\StructConsole2.exe
+C:\Users\neket\source\repos\lab04\StructConsole2\obj\Debug\StructConsole2.pdb
+>>>>>>> b7c1696 (Оновив лабу №4)
+>>>>>>> d920f74 (Оновив лабу №4)

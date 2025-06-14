@@ -1,0 +1,26 @@
+D:\2 КУРС\lab13\task1\bin\Debug\task1.exe.config
+D:\2 КУРС\lab13\task1\bin\Debug\task1.exe
+D:\2 КУРС\lab13\task1\bin\Debug\task1.pdb
+D:\2 КУРС\lab13\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+D:\2 КУРС\lab13\task1\obj\Debug\task1.Form1.resources
+D:\2 КУРС\lab13\task1\obj\Debug\task1.Properties.Resources.resources
+D:\2 КУРС\lab13\task1\obj\Debug\task1.csproj.GenerateResource.cache
+D:\2 КУРС\lab13\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+D:\2 КУРС\lab13\task1\obj\Debug\task1.exe
+D:\2 КУРС\lab13\task1\obj\Debug\task1.pdb
+D:\2 КУРС\lab13\task1\bin\Debug\ClassLibrary1.dll
+D:\2 КУРС\lab13\task1\bin\Debug\ClassLibrary1.pdb
+D:\2 КУРС\lab13\task1\obj\Debug\task1.csproj.CopyComplete
+C:\Users\neket\source\repos\lab13\task1\bin\Debug\task1.exe.config
+C:\Users\neket\source\repos\lab13\task1\bin\Debug\task1.exe
+C:\Users\neket\source\repos\lab13\task1\bin\Debug\task1.pdb
+C:\Users\neket\source\repos\lab13\task1\bin\Debug\ClassLibrary1.dll
+C:\Users\neket\source\repos\lab13\task1\bin\Debug\ClassLibrary1.pdb
+C:\Users\neket\source\repos\lab13\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+C:\Users\neket\source\repos\lab13\task1\obj\Debug\task1.Form1.resources
+C:\Users\neket\source\repos\lab13\task1\obj\Debug\task1.Properties.Resources.resources
+C:\Users\neket\source\repos\lab13\task1\obj\Debug\task1.csproj.GenerateResource.cache
+C:\Users\neket\source\repos\lab13\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\neket\source\repos\lab13\task1\obj\Debug\task1.csproj.Up2Date
+C:\Users\neket\source\repos\lab13\task1\obj\Debug\task1.exe
+C:\Users\neket\source\repos\lab13\task1\obj\Debug\task1.pdb

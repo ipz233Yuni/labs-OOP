@@ -1,0 +1,7 @@
+C:\Users\vermeervermeeroff\source\repos\oop-lab5\SimpleClassConsole2\bin\Debug\SimpleClassConsole2.exe.config
+C:\Users\vermeervermeeroff\source\repos\oop-lab5\SimpleClassConsole2\bin\Debug\SimpleClassConsole2.exe
+C:\Users\vermeervermeeroff\source\repos\oop-lab5\SimpleClassConsole2\bin\Debug\SimpleClassConsole2.pdb
+C:\Users\vermeervermeeroff\source\repos\oop-lab5\SimpleClassConsole2\obj\Debug\SimpleClassConsole2.csproj.AssemblyReference.cache
+C:\Users\vermeervermeeroff\source\repos\oop-lab5\SimpleClassConsole2\obj\Debug\SimpleClassConsole2.csproj.CoreCompileInputs.cache
+C:\Users\vermeervermeeroff\source\repos\oop-lab5\SimpleClassConsole2\obj\Debug\SimpleClassConsole2.exe
+C:\Users\vermeervermeeroff\source\repos\oop-lab5\SimpleClassConsole2\obj\Debug\SimpleClassConsole2.pdb

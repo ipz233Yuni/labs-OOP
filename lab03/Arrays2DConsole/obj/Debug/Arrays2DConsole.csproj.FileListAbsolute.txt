@@ -1,0 +1,14 @@
+D:\2 КУРС\lab03\Arrays2DConsole\bin\Debug\Arrays2DConsole.exe.config
+D:\2 КУРС\lab03\Arrays2DConsole\bin\Debug\Arrays2DConsole.exe
+D:\2 КУРС\lab03\Arrays2DConsole\bin\Debug\Arrays2DConsole.pdb
+D:\2 КУРС\lab03\Arrays2DConsole\obj\Debug\Arrays2DConsole.csproj.AssemblyReference.cache
+D:\2 КУРС\lab03\Arrays2DConsole\obj\Debug\Arrays2DConsole.csproj.CoreCompileInputs.cache
+D:\2 КУРС\lab03\Arrays2DConsole\obj\Debug\Arrays2DConsole.exe
+D:\2 КУРС\lab03\Arrays2DConsole\obj\Debug\Arrays2DConsole.pdb
+C:\Users\neket\source\repos\lab03\Arrays2DConsole\bin\Debug\Arrays2DConsole.exe.config
+C:\Users\neket\source\repos\lab03\Arrays2DConsole\bin\Debug\Arrays2DConsole.exe
+C:\Users\neket\source\repos\lab03\Arrays2DConsole\bin\Debug\Arrays2DConsole.pdb
+C:\Users\neket\source\repos\lab03\Arrays2DConsole\obj\Debug\Arrays2DConsole.csproj.AssemblyReference.cache
+C:\Users\neket\source\repos\lab03\Arrays2DConsole\obj\Debug\Arrays2DConsole.csproj.CoreCompileInputs.cache
+C:\Users\neket\source\repos\lab03\Arrays2DConsole\obj\Debug\Arrays2DConsole.exe
+C:\Users\neket\source\repos\lab03\Arrays2DConsole\obj\Debug\Arrays2DConsole.pdb

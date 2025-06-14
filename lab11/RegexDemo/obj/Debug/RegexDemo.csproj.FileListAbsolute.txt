@@ -1,0 +1,20 @@
+D:\2 КУРС\lab11\RegexDemo\bin\Debug\RegexDemo.exe.config
+D:\2 КУРС\lab11\RegexDemo\bin\Debug\RegexDemo.exe
+D:\2 КУРС\lab11\RegexDemo\bin\Debug\RegexDemo.pdb
+D:\2 КУРС\lab11\RegexDemo\obj\Debug\RegexDemo.csproj.AssemblyReference.cache
+D:\2 КУРС\lab11\RegexDemo\obj\Debug\RegexDemo.FormRegex.resources
+D:\2 КУРС\lab11\RegexDemo\obj\Debug\RegexDemo.Properties.Resources.resources
+D:\2 КУРС\lab11\RegexDemo\obj\Debug\RegexDemo.csproj.GenerateResource.cache
+D:\2 КУРС\lab11\RegexDemo\obj\Debug\RegexDemo.csproj.CoreCompileInputs.cache
+D:\2 КУРС\lab11\RegexDemo\obj\Debug\RegexDemo.exe
+D:\2 КУРС\lab11\RegexDemo\obj\Debug\RegexDemo.pdb
+C:\Users\neket\source\repos\lab11\RegexDemo\bin\Debug\RegexDemo.exe.config
+C:\Users\neket\source\repos\lab11\RegexDemo\bin\Debug\RegexDemo.exe
+C:\Users\neket\source\repos\lab11\RegexDemo\bin\Debug\RegexDemo.pdb
+C:\Users\neket\source\repos\lab11\RegexDemo\obj\Debug\RegexDemo.csproj.AssemblyReference.cache
+C:\Users\neket\source\repos\lab11\RegexDemo\obj\Debug\RegexDemo.FormRegex.resources
+C:\Users\neket\source\repos\lab11\RegexDemo\obj\Debug\RegexDemo.Properties.Resources.resources
+C:\Users\neket\source\repos\lab11\RegexDemo\obj\Debug\RegexDemo.csproj.GenerateResource.cache
+C:\Users\neket\source\repos\lab11\RegexDemo\obj\Debug\RegexDemo.csproj.CoreCompileInputs.cache
+C:\Users\neket\source\repos\lab11\RegexDemo\obj\Debug\RegexDemo.exe
+C:\Users\neket\source\repos\lab11\RegexDemo\obj\Debug\RegexDemo.pdb

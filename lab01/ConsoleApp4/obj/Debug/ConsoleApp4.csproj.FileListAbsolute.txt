@@ -1,0 +1,14 @@
+D:\2 КУРС\lab1\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\2 КУРС\lab1\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\2 КУРС\lab1\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\2 КУРС\lab1\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\2 КУРС\lab1\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\2 КУРС\lab1\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\2 КУРС\lab1\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\neket\source\repos\lab01\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\neket\source\repos\lab01\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\neket\source\repos\lab01\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\neket\source\repos\lab01\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\neket\source\repos\lab01\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\neket\source\repos\lab01\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\neket\source\repos\lab01\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
