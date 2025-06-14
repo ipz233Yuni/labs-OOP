@@ -1,35 +1,35 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
+﻿using System.IO;
 using System.Security.Cryptography;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
     public class Encryption
     {
-        public static void Encrypt(string inputFile)
+        public static void Encrypt(string inputFile, string password)
         {
             string outputFile = inputFile + ".crypt";
+            byte[] salt = Encoding.UTF8.GetBytes("SomeSaltValue1234"); 
 
+            using (var keyDeriver = new Rfc2898DeriveBytes(password, salt, 100000))
             using (Aes aesAlg = Aes.Create())
             {
-                byte[] key = aesAlg.Key;
-                byte[] iv = aesAlg.IV;
+                aesAlg.Key = keyDeriver.GetBytes(32);
+                aesAlg.GenerateIV(); 
 
-                using (FileStream inputStream = File.OpenRead(inputFile))
                 using (FileStream outputStream = File.Create(outputFile))
-                using (CryptoStream cryptoStream = new CryptoStream(outputStream, aesAlg.CreateEncryptor(key, iv), CryptoStreamMode.Write))
                 {
-                    outputStream.Write(key, 0, key.Length);
-                    outputStream.Write(iv, 0, iv.Length);
+                    outputStream.Write(aesAlg.IV, 0, aesAlg.IV.Length); 
 
-                    inputStream.CopyTo(cryptoStream);
+                    using (CryptoStream cryptoStream = new CryptoStream(outputStream, aesAlg.CreateEncryptor(), CryptoStreamMode.Write))
+                    using (FileStream inputStream = File.OpenRead(inputFile))
+                    {
+                        inputStream.CopyTo(cryptoStream);
+                    }
                 }
             }
         }
+
         public static void Decrypt(string inputFile)
         {
             string outputFile = Path.GetFileNameWithoutExtension(inputFile);

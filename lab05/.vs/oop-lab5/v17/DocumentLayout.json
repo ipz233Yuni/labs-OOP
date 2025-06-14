@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\neket\\source\\repos\\lab05\\",
+  "WorkspaceRootPath": "D:\\1Course\\labsNekit\\labs\\lab05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC6D2432-8AF5-46FC-A9CC-0147A6C55C3B}|SimpleClassConsole\\SimpleClassConsole.csproj|c:\\users\\neket\\source\\repos\\lab05\\simpleclassconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC6D2432-8AF5-46FC-A9CC-0147A6C55C3B}|SimpleClassConsole\\SimpleClassConsole.csproj|d:\\1course\\labsnekit\\labs\\lab05\\simpleclassconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC6D2432-8AF5-46FC-A9CC-0147A6C55C3B}|SimpleClassConsole\\SimpleClassConsole.csproj|solutionrelative:simpleclassconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DC914AB-CDBD-457B-8477-5B422D204437}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\neket\\source\\repos\\lab05\\classlibrary\\entrant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DC914AB-CDBD-457B-8477-5B422D204437}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\entrant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{021061E9-136A-4435-9FD6-9EF2749535FD}|SimpleClassConsole2\\SimpleClassConsole2.csproj|D:\\1Course\\labsNekit\\labs\\lab05\\simpleclassconsole2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021061E9-136A-4435-9FD6-9EF2749535FD}|SimpleClassConsole2\\SimpleClassConsole2.csproj|solutionrelative:simpleclassconsole2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{021061E9-136A-4435-9FD6-9EF2749535FD}|SimpleClassConsole2\\SimpleClassConsole2.csproj|c:\\users\\neket\\source\\repos\\lab05\\simpleclassconsole2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{021061E9-136A-4435-9FD6-9EF2749535FD}|SimpleClassConsole2\\SimpleClassConsole2.csproj|solutionrelative:simpleclassconsole2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DC914AB-CDBD-457B-8477-5B422D204437}|ClassLibrary\\ClassLibrary.csproj|D:\\1Course\\labsNekit\\labs\\lab05\\classlibrary\\entrant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC914AB-CDBD-457B-8477-5B422D204437}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\entrant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\neket\\source\\repos\\lab05\\SimpleClassConsole\\Program.cs",
+              "DocumentMoniker": "D:\\1Course\\labsNekit\\labs\\lab05\\SimpleClassConsole\\Program.cs",
               "RelativeDocumentMoniker": "SimpleClassConsole\\Program.cs",
-              "ToolTip": "C:\\Users\\neket\\source\\repos\\lab05\\SimpleClassConsole\\Program.cs",
+              "ToolTip": "D:\\1Course\\labsNekit\\labs\\lab05\\SimpleClassConsole\\Program.cs",
               "RelativeToolTip": "SimpleClassConsole\\Program.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAmwKAAAAAAAAAA",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwJkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T09:35:44.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Entrant.cs",
-              "DocumentMoniker": "C:\\Users\\neket\\source\\repos\\lab05\\ClassLibrary\\Entrant.cs",
+              "DocumentMoniker": "D:\\1Course\\labsNekit\\labs\\lab05\\ClassLibrary\\Entrant.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Entrant.cs",
-              "ToolTip": "C:\\Users\\neket\\source\\repos\\lab05\\ClassLibrary\\Entrant.cs",
+              "ToolTip": "D:\\1Course\\labsNekit\\labs\\lab05\\ClassLibrary\\Entrant.cs",
               "RelativeToolTip": "ClassLibrary\\Entrant.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T09:35:39.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T09:35:39.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\neket\\source\\repos\\lab05\\SimpleClassConsole2\\Program.cs",
+              "DocumentMoniker": "D:\\1Course\\labsNekit\\labs\\lab05\\SimpleClassConsole2\\Program.cs",
               "RelativeDocumentMoniker": "SimpleClassConsole2\\Program.cs",
-              "ToolTip": "C:\\Users\\neket\\source\\repos\\lab05\\SimpleClassConsole2\\Program.cs",
+              "ToolTip": "D:\\1Course\\labsNekit\\labs\\lab05\\SimpleClassConsole2\\Program.cs",
               "RelativeToolTip": "SimpleClassConsole2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T21:07:47.054Z",
               "EditorCaption": ""

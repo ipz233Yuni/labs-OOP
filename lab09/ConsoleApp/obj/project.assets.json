@@ -27,19 +27,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Саша\\.nuget\\packages\\": {}
+    "C:\\Users\\ZOV\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1 курс\\labsNekit\\лаби\\lab09\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "D:\\1Course\\labsNekit\\labs\\lab09\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "D:\\1 курс\\labsNekit\\лаби\\lab09\\ConsoleApp\\ConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\Саша\\.nuget\\packages\\",
-      "outputPath": "D:\\1 курс\\labsNekit\\лаби\\lab09\\ConsoleApp\\obj\\",
+      "projectPath": "D:\\1Course\\labsNekit\\labs\\lab09\\ConsoleApp\\ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\ZOV\\.nuget\\packages\\",
+      "outputPath": "D:\\1Course\\labsNekit\\labs\\lab09\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Саша\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ZOV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -47,15 +52,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\1 курс\\labsNekit\\лаби\\lab09\\ClassLibrary\\ClassLibrary.csproj": {
-              "projectPath": "D:\\1 курс\\labsNekit\\лаби\\lab09\\ClassLibrary\\ClassLibrary.csproj"
+            "D:\\1Course\\labsNekit\\labs\\lab09\\ClassLibrary\\ClassLibrary.csproj": {
+              "projectPath": "D:\\1Course\\labsNekit\\labs\\lab09\\ClassLibrary\\ClassLibrary.csproj"
             }
           }
         }
@@ -69,7 +73,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net7.0": {
@@ -85,12 +90,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
