@@ -1,12 +1,75 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\neket\\source\\repos\\lab13\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\1Course\\labsNekit\\labs\\lab13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB24F2A-7AC0-4A3F-8C48-29A30179587E}|ClassLibrary1\\ClassLibrary1.csproj|d:\\1course\\labsnekit\\labs\\lab13\\classlibrary1\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB24F2A-7AC0-4A3F-8C48-29A30179587E}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB24F2A-7AC0-4A3F-8C48-29A30179587E}|ClassLibrary1\\ClassLibrary1.csproj|d:\\1course\\labsnekit\\labs\\lab13\\classlibrary1\\archiving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB24F2A-7AC0-4A3F-8C48-29A30179587E}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\archiving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454F6157-2044-4E65-9CCF-04ECA5C794F1}|task1\\task1.csproj|d:\\1course\\labsnekit\\labs\\lab13\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454F6157-2044-4E65-9CCF-04ECA5C794F1}|task1\\task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Archiving.cs",
+              "DocumentMoniker": "D:\\1Course\\labsNekit\\labs\\lab13\\ClassLibrary1\\Archiving.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Archiving.cs",
+              "ToolTip": "D:\\1Course\\labsNekit\\labs\\lab13\\ClassLibrary1\\Archiving.cs",
+              "RelativeToolTip": "ClassLibrary1\\Archiving.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:14:12.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Encryption.cs",
+              "DocumentMoniker": "D:\\1Course\\labsNekit\\labs\\lab13\\ClassLibrary1\\Encryption.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Encryption.cs",
+              "ToolTip": "D:\\1Course\\labsNekit\\labs\\lab13\\ClassLibrary1\\Encryption.cs",
+              "RelativeToolTip": "ClassLibrary1\\Encryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:14:09.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1Course\\labsNekit\\labs\\lab13\\task1\\Program.cs",
+              "RelativeDocumentMoniker": "task1\\Program.cs",
+              "ToolTip": "D:\\1Course\\labsNekit\\labs\\lab13\\task1\\Program.cs",
+              "RelativeToolTip": "task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:13:54.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
